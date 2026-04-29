@@ -2,9 +2,9 @@
 project:
   wokwi_id:     462616694532671489       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "Wokwi_ICDesign_Bootcamp_Template"      # Project title
-  author:       ""      # Your name
-  discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  author:       "TEST"      # Your name
+  discord:      "TEST"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
+  description:  "TEST"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
